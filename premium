@@ -1,99 +1,167 @@
 #EXTM3U 
 
+____________TV LOKAL____________
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238780_ico.png?ts=1654727818" group-title="IPTV",00. MENTARI TV
+http://tv.zonanime.my.id/vidio/mentaritv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",01. INDOSIAR
+http://210.210.155.37/qwr9ew/s/s04/01.m3u8|User-Agent=Lavf/56.15.102
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/mnctv.png" group-title="IPTV",02. MNCTV HD
+https://live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/antv.png" group-title="IPTV",03. ANTV HD
+https://live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256280_ico.png?ts=1654801277" group-title="IPTV",04. SCTV
+http://210.210.155.37/qwr9ew/s/s03/01.m3u8|User-Agent=Lavf/56.15.102
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/rcti.png" group-title="IPTV",05. RCTI HD
+https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/transtv.png" group-title="IPTV",06. TRANS TV
+https://live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/trans7.png" group-title="IPTV",07. TRANS 7 HD
+https://live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/gtv.png" group-title="IPTV",08. GLOBAL TV HD
+https://live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/inews1.png" group-title="IPTV",09. INEWS TV HD
+https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/tvone.png" group-title="IPTV",10. TV ONE
+https://live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/42734bec-3364-4bac-a710-0a62b1d1c3af.jpg" group-title="IPTV",11. KOMPAS TV HD
+https://live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/nettv.png" group-title="IPTV",12. NET TV HD
+https://live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=4ae10c2357e250e088bb8a5ab044dd50:e7f47e2b948e9222cf4d24b51881ec04 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="IPTV",01. TUDN MEXICO
-https://channel-tdn-cdn.blim.com/manifest.mpd
+
+____________GROUP SPORT____________
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000870_ico.png?ts=1655551008" group-title="IPTV",13. MNC Sports 1
+https://live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="IPTV",14. MNC Sports 2
+https://live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="IPTV",15. MNC Sports 3
+https://live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114944_ico.png?ts=1661514380" group-title="IPTV",16. Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/bein1.png" group-title="IPTV",17. Bein Sport 1
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/bein3.png" group-title="IPTV",18. Bein Sport 3
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/spotv.png" group-title="IPTV",19. SPOTV 1
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/spotv2.png" group-title="IPTV",20. SPOTV 2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213044_ico.png?ts=1662113124" group-title="IPTV",21. Champions TV 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213055_ico.png?ts=1662113213" group-title="IPTV",22. Champions TV 2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19742101_ico.png?ts=1662112797" group-title="IPTV",23. Champions TV 3
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="IPTV",02 DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="IPTV",24. DAZN LALIGA
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="IPTV",03 DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="IPTV",25. DAZN 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="IPTV",04 DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="IPTV",26. DAZN 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c75fa077f3185e4899a5c08458fff8d7:bd8817e700e723bd0366fd82b5d02a45,53f4449a2ce35c1c91a2cb6bd467e2a6:fc522076202388068ccfe1a961f3abd1,551dbac900da53f3b2b30b589e5fb999:1c6df1a6a5ca8aaa16a00f488fa00322
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e2f915_c0e42527413e431d9119434bae6edc30~mv2.png/v1/fill/w_380,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e2f915_c0e42527413e431d9119434bae6edc30~mv2.png" group-title="IPTV",04 BARCA TV
-https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd
+#KODIPROP:inputstream.adaptive.license_key=4ae10c2357e250e088bb8a5ab044dd50:e7f47e2b948e9222cf4d24b51881ec04 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="IPTV",27. TUDN MEXICO
+https://channel-tdn-cdn.blim.com/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",28. UNIFI SPORTS 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528786_ico.png?ts=1658211461" group-title="IPTV",29. UNIFI SPORTS 2
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
+
+
+____________GROUP MOVIE____________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000870_ico.png?ts=1655551008" group-title="IPTV",MNC Sports
-https://live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/hbo.png" group-title="IPTV",30. HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114944_ico.png?ts=1661514380" group-title="IPTV",Soccer Channel
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/axn.png" group-title="IPTV",31. AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256280_ico.png?ts=1654801277" group-title="IPTV",SCTV
-http://210.210.155.37/qwr9ew/s/s03/01.m3u8|User-Agent=Lavf/56.15.102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/thrill.png" group-title="IPTV",32. THRIIL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
-http://210.210.155.37/qwr9ew/s/s04/01.m3u8|User-Agent=Lavf/56.15.102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/celestialmovies.png" group-title="IPTV",33. Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-____________MNC GROUP
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20053038_ico.png?ts=1654801099" group-title="IPTV",RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/tvnmovies.png" group-title="IPTV",34. TVN Movies
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20690321_ico.png?ts=1654801175" group-title="IPTV",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNC TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-
-#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20015768_ico.png?ts=1654989306" group-title="IPTV",iNews
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238780_ico.png?ts=1654727818" group-title="IPTV",MENTARI TV
-http://tv.zonanime.my.id/vidio/mentaritv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22692997_ico.png?ts=1664623667" group-title="IPTV",Horee
-http://tv.zonanime.my.id/vidio/horee.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",UNIFI SPORTS 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528786_ico.png?ts=1658211461" group-title="IPTV",UNIFI SPORTS 2
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20367000_ico.png?ts=1654805734" group-title="IPTV",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20274240_ico.png?ts=1654805804" group-title="IPTV",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213044_ico.png?ts=1662113124" group-title="IPTV",Champions TV 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213055_ico.png?ts=1662113213" group-title="IPTV",Champions TV 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19742101_ico.png?ts=1662112797" group-title="IPTV",Champions TV 3
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957652_ico.png?ts=1655328294" group-title="IPTV",B KIDS
-http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763218_ico.png?ts=1654874049" group-title="IPTV",ZOO MOO ASIA
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529154_ico.png?ts=1660694924" group-title="IPTV",Celestial Classic Movies
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/qwr9ew/s/s31/01.m3u8
