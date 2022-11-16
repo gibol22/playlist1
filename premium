@@ -164,12 +164,6 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/ESPNExtra.png/revision/latest?cb=20200127200233" group-title="IPTV",35. EXPN EXTRA
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=12e86339c7254a6b8cdb7333a78e96b9:791babfa17e59b741e2d359455b0abac
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/ESPNExtra.png/revision/latest?cb=20200127200233" group-title="IPTV",37. BEIN SPORT 1 FRANCE
-https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd
-
-
 
 ____________GROUP SPORT FHD DADDY____________
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949805_ico.png?ts=1661596956" group-title="IPTV",36. BT SPORT 1
