@@ -1,5 +1,15 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="IPTV",000 ATES
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+https://s2.wecast.to:8443/hls/p8BFM1I2b6OD/index.m3u8?st=ojZHwbMOfriCpiAOKgHWWQ&e=1668582936
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="IPTV",000 ATES
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+https://cdn.castmax.live/hls/laligabahia.m3u8?token=odI_oitkVkaAROI7x2O2mg&expires=1668572255
+
 ____________TV LOKAL____________
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/220x140/photo/2022/08/14/932587078.jpg" group-title="IPTV",00. MOJI CHANNEL
 http://tvn.x10.mx/1/master-13.m3u8
