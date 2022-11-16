@@ -7,10 +7,16 @@
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="IPTV",01. TUDN MEXICO
 https://channel-tdn-cdn.blim.com/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://kenstechtips.com/wp-content/uploads/2020/02/BT-Sport-Logo.png" group-title="IPTV",01. BT Sport 1
+#EXTINF:-1 tvg-logo="https://kenstechtips.com/wp-content/uploads/2020/02/BT-Sport-Logo.png" group-title="IPTV",02. BT Sport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 https://ge2.livechymde.xyz/uk_btsport1/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="IPTV",03 Liverpool 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
