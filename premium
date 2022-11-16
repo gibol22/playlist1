@@ -150,7 +150,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="IPTV",32. MILAN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Milan_TV_-_Logo_2016.png/220px-Milan_TV_-_Logo_2016.png" group-title="IPTV",32. MILAN TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="IPTV",33. MUTV
