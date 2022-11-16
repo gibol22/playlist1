@@ -1,5 +1,12 @@
 #EXTM3U 
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4ae10c2357e250e088bb8a5ab044dd50:e7f47e2b948e9222cf4d24b51881ec04 
+#EXTINF:-1 tvg-logo="https://kenstechtips.com/wp-content/uploads/2020/02/BT-Sport-Logo.png" group-title="IPTV",01. TUDN MEXICO
+https://channel-tdn-cdn.blim.com/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://kenstechtips.com/wp-content/uploads/2020/02/BT-Sport-Logo.png" group-title="IPTV",A CHANNEL
 #EXTVLCOPT:http-referrer=https://aesport.tv/live-tv/uk-bt-sport-1.html?link=247
 https://ge2.livechymde.xyz/uk_btsport1/index.m3u8
