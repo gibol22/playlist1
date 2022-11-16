@@ -114,7 +114,7 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="IPTV",24. DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image/?id=1075242565118_image-header_pEs_1661946014000" group-title="IPTV",24. DAZN LALIGA
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
