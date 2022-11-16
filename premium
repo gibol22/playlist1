@@ -182,46 +182,53 @@ https://edge-live01-bel.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/E
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-3-243.png" group-title="IPTV",39. ESPN 3
 https://edge-live01-bel.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
+
+____________GROUP PILDUN____________
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tyc-sports-1245.png" group-title="IPTV",40. TYC SPORT
 https://edge-live01-bel.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1 tvg-logo="https://futbolparatodos.net/wp-content/uploads/2020/12/TV_Publica.png" group-title="IPTV",41. TV Public
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+
 
 ____________GROUP MOVIE____________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/hbo.png" group-title="IPTV",41. HBO
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/hbo.png" group-title="IPTV",42. HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/axn.png" group-title="IPTV",42. AXN
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/axn.png" group-title="IPTV",43. AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/thrill.png" group-title="IPTV",43. THRIIL
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/thrill.png" group-title="IPTV",44. THRIIL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/celestialmovies.png" group-title="IPTV",44. Celestial Classic Movies
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/celestialmovies.png" group-title="IPTV",45. Celestial Classic Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/tvnmovies.png" group-title="IPTV",45. TVN Movies
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/tvnmovies.png" group-title="IPTV",46. TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 ____________GROUP ANIMASI___________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest/scale-to-width-down/874?cb=20150330224645" group-title="IPTV",46. ANIMAX
+#EXTINF:0 tvg-id="SoccerChannel.id" https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest/scale-to-width-down/874?cb=20150330224645" group-title="IPTV",47. ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" https://tipiku.site/images/990983ea-30cc-aa47-0fc1-86783155b390.png" group-title="IPTV",47. NICK JR
+#EXTINF:0 tvg-id="SoccerChannel.id" https://tipiku.site/images/990983ea-30cc-aa47-0fc1-86783155b390.png" group-title="IPTV",48. NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
