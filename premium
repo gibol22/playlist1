@@ -228,5 +228,5 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 ____________GROUP ANIMASI___________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" https://tipiku.site/images/e171ac03-8ced-d408-70bd-9d16a0b0b569.jpeg" group-title="IPTV",48. ANIMAX
+#EXTINF:0 tvg-id="SoccerChannel.id" https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest/scale-to-width-down/874?cb=20150330224645" group-title="IPTV",48. ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
