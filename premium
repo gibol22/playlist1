@@ -103,7 +103,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/spotv2.png" group-title="IPTV",22. SPOTV 2
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/spotv2.png" group-title="IPTV",21. SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213044_ico.png?ts=1662113124" group-title="IPTV",22. Champions TV 1
@@ -168,64 +168,40 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 
 
-____________GROUP SPORT FHD DADDY____________
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949805_ico.png?ts=1661596956" group-title="IPTV",37. BT SPORT 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium31/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600488_ico.png?ts=1661597027" group-title="IPTV",38. BT SPORT 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22394333_ico.png?ts=1663094572" group-title="IPTV",39. BT SPORT 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://topnet.ma/iptv/wp-content/uploads/2021/10/SPORT-TV-1-Portugal.png" group-title="IPTV",40. SPORT TV 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/ddy5/premium49/index.m3u8
-
-
-
-
 ____________GROUP MOVIE____________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/hbo.png" group-title="IPTV",41. HBO
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/hbo.png" group-title="IPTV",37. HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/axn.png" group-title="IPTV",42. AXN
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/axn.png" group-title="IPTV",38. AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/thrill.png" group-title="IPTV",43. THRIIL
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/thrill.png" group-title="IPTV",39. THRIIL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/celestialmovies.png" group-title="IPTV",44. Celestial Classic Movies
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/celestialmovies.png" group-title="IPTV",40. Celestial Classic Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/tvnmovies.png" group-title="IPTV",45. TVN Movies
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://tipiku.site/images/tvnmovies.png" group-title="IPTV",41. TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 ____________GROUP ANIMASI___________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest/scale-to-width-down/874?cb=20150330224645" group-title="IPTV",46. ANIMAX
+#EXTINF:0 tvg-id="SoccerChannel.id" https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest/scale-to-width-down/874?cb=20150330224645" group-title="IPTV",42. ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="SoccerChannel.id" https://tipiku.site/images/990983ea-30cc-aa47-0fc1-86783155b390.png" group-title="IPTV",47. NICK JR
+#EXTINF:0 tvg-id="SoccerChannel.id" https://tipiku.site/images/990983ea-30cc-aa47-0fc1-86783155b390.png" group-title="IPTV",43. NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
