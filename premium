@@ -7,17 +7,25 @@
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="IPTV",01. TUDN MEXICO
 https://channel-tdn-cdn.blim.com/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://kenstechtips.com/wp-content/uploads/2020/02/BT-Sport-Logo.png" group-title="IPTV",02. BT Sport 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://ge2.livechymde.xyz/uk_btsport1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="IPTV",02 DAZN LALIGA
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw" group-title="IPTV",03 Liverpool 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="IPTV",03 DAZN 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="IPTV",04 DAZN 2
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c75fa077f3185e4899a5c08458fff8d7:bd8817e700e723bd0366fd82b5d02a45,53f4449a2ce35c1c91a2cb6bd467e2a6:fc522076202388068ccfe1a961f3abd1,551dbac900da53f3b2b30b589e5fb999:1c6df1a6a5ca8aaa16a00f488fa00322
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e2f915_c0e42527413e431d9119434bae6edc30~mv2.png/v1/fill/w_380,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e2f915_c0e42527413e431d9119434bae6edc30~mv2.png" group-title="IPTV",04 BARCA TV
+https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
