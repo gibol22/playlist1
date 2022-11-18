@@ -187,7 +187,7 @@ https://edge-live01-bel.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="IPTV",41. SPORT DIGITAL FOOTBALL
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png" group-title="IPTV",41. SPORT DIGITAL FOOTBALL
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 ____________GROUP PILDUN____________
