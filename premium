@@ -3,34 +3,29 @@
 ____________LOKAL__________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/inews1.png" group-title="IPTV", INEWS TV HD
+#EXTINF:0 tvg-id="" tvg-logo="https://tipiku.site/images/inews1.png" group-title="IPTV", 01.INEWS TV HD
 https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114944_ico.png?ts=1661514380" group-title="IPTV",18. Soccer Channel
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114944_ico.png?ts=1661514380" group-title="IPTV",02.Soccer Channel
 https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 
 ____________SPORTS____________
 #KODIPROP:inputstream.adaptive.license_type=Clearkeys
 #KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
-#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-1-no.png" group-title="IPTV",02. VIASAT 1
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-1-no.png" group-title="IPTV",03. VIASAT 1
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=Clearkeys
 #KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
-#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-live-2.svg" group-title="IPTV",03. VIASAT 2
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-live-2.svg" group-title="IPTV",04. VIASAT 2
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=Clearkeys
 #KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
-#EXTINF:0 tvg-id="" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_live3" group-title="IPTV",04. VIASAT 3
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=Clearkeys
-#KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
-#EXTINF:0 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-c-more-fotboll-482.png" group-title="IPTV",05. C MORE FOOTBALL
+#EXTINF:0 tvg-id="" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_live3" group-title="IPTV",05. VIASAT 3
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=Clearkeys
